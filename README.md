@@ -10,4 +10,4 @@ The segmentation results are as Figure
 
 # Dataset
 Both datasets used in this paper and required for training, validation, and testing can be downloaded directly from the dataset websites below:
-Pascal VOC:[link](http://host.robots.ox.ac.uk/pascal/VOC/)
+Pascal VOC:http://host.robots.ox.ac.uk/pascal/VOC/
