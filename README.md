@@ -8,8 +8,10 @@ The segmentation results are as Figure
 
 ![fig14](https://user-images.githubusercontent.com/107088415/221349928-533c1eee-8516-4b9f-860b-79e93ab3ef21.jpg)
 
-# Dataset
+## Dataset
 Both datasets used in this paper and required for training, validation, and testing can be downloaded directly from the dataset websites below:
 Pascal VOC:http://host.robots.ox.ac.uk/pascal/VOC/
 
 Modify the database path in 'mypath.m'
+
+The pre-trained weights for both Pascal VOC and Cityscapes datasets can be downloaded:https://drive.google.com/drive/folders/1sX90NCPQL5zg4bzFYRsF5yBxBZ6DQfsG?usp=sharing
